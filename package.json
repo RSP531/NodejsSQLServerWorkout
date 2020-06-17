@@ -4,7 +4,8 @@
   "description": "Node.js RESTful CRUD API with Node.js, Express & MySQL",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
   },
   "keywords": [
     "nodejs",
