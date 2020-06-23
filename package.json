@@ -1,7 +1,7 @@
 {
   "name": "nodeserverworkoutsql",
   "version": "1.0.0",
-  "description": "Node.js RESTful CRUD API with Node.js, Express & MySQL",
+  "description": "Node.js RESTful CRUD API with Node.js, Express & MySQL. For WorkoutApp",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
