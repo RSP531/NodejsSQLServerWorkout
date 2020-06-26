@@ -11,3 +11,5 @@ CREATE TABLE IF NOT EXISTS exercises (
   suggestedReps varchar(255) NOT NULL,
   superset BOOLEAN DEFAULT false
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO exercises...
