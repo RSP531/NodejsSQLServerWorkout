@@ -13,3 +13,4 @@ CREATE TABLE IF NOT EXISTS exercises (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 INSERT INTO exercises (exerciseName,suggestedSets,suggestedReps,superset) values (exerciseName,suggestedSets,suggestedReps,superset);
+INSERT INTO exercises (exerciseName,suggestedSets,suggestedReps,superset) values (exerciseName,suggestedSets,suggestedReps,superset);
