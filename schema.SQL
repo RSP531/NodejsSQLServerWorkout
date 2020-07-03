@@ -14,3 +14,4 @@ CREATE TABLE IF NOT EXISTS exercises (
 
 INSERT INTO exercises (exerciseName,suggestedSets,suggestedReps,superset) values (exerciseName,suggestedSets,suggestedReps,superset);
 INSERT INTO exercises (exerciseName,suggestedSets,suggestedReps,superset) values (exerciseName,suggestedSets,suggestedReps,superset);
+INSERT INTO exercises (exerciseName,suggestedSets,suggestedReps,superset) values (exerciseName,suggestedSets,suggestedReps,superset);
