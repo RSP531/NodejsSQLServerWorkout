@@ -16,3 +16,4 @@ INSERT INTO exercises (exerciseName,suggestedSets,suggestedReps,superset) values
 INSERT INTO exercises (exerciseName,suggestedSets,suggestedReps,superset) values (exerciseName,suggestedSets,suggestedReps,superset);
 INSERT INTO exercises (exerciseName,suggestedSets,suggestedReps,superset) values (exerciseName,suggestedSets,suggestedReps,superset);
 INSERT INTO exercises (exerciseName,suggestedSets,suggestedReps,superset) values (exerciseName,suggestedSets,suggestedReps,superset);
+INSERT INTO exercises (exerciseName,suggestedSets,suggestedReps,superset) values (exerciseName,suggestedSets,suggestedReps,superset);
